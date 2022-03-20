@@ -1,0 +1,4 @@
+baseURL = 'https://rjdp.github.io'
+languageCode = 'en-us'
+title = 'Organising my thoughts'
+theme = 'PaperMod'

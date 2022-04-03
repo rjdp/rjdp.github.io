@@ -6,3 +6,5 @@ draft: false
 
 Setting up Hugo
 
+testing signed commit
+
